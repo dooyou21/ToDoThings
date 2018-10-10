@@ -1,11 +1,11 @@
-ToDoThings server
+ToDoThings
 ======================
 
-ToDoThings 서버
+ToDoThings
 ----
 
 Node.js > 8.11.x
 Express.js
 MySQL 5.8
 
-server for [this](https://github.com/dooyou21/vue-camp/tree/master/2_todo/my-todo)
+[참고](https://github.com/dooyou21/vue-camp/tree/master/2_todo/my-todo)
